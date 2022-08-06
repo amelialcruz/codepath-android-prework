@@ -7,7 +7,7 @@
 This application is a prerequisite portion of the Intro to Mobile App Development (Fall 2022) course with Codepath. The application was expanded upon from basic requirements and tailored to a specific idea I have in mind for an app. You will find three basic features demonstrated and implemented as follows: changing text color displayed, changing view color displayed, and changing message displayed.
 
 ### App Walk-though
-<img src="http://g.recordit.co/r5ofuWLfFL.gif" width=200><br>
+<img src="http://g.recordit.co/r5ofuWLfFL.gif" width=500><br>
 
 
 ### Required User Stories
